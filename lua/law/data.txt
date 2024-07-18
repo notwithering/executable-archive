@@ -1,0 +1,92 @@
+easy:things that are usually found near a bathtub:conditioner:null
+easy:who are the main characters in spongebob?:spongebobsquarepants:null
+easy:name a 2d geometric shape:rectangle:null
+easy:what desserts do kids like?:chocolatecake:null
+easy:what is another word for garbage?:rubbish:null
+easy:name an animal that has horn:unicorn:null
+easy:what can you find in outer space?:spaceship:null
+easy:name an activity where you where gloves:golfing:null
+easy:in which place do we find an elevator?:shoppingmall:null
+easy:what are the parts of head?:tongue:null
+easy:name something you find on road:trucks:null
+easy:objects in the bathroom:toilettpaper:null
+easy:name a month with 31 days:december:null
+easy:name something you can use to draw:coloredpencils:null
+easy:what are sports that are usually played by teams?:americanfootball:null
+easy:name an animal that starts with the letter b:butterfly:null
+easy:can you think of something that is in hamburger?:mayonnaise:null
+easy:what do you miss about school?:teachers:null
+easy:name a superhero:wonderwoman:null
+easy:name something people do when they feel happy:jump:null
+easy:tell me the most important meal of the day:breakfast:null
+easy:give me one name of the seven dwarfs in snow white:bashful:null
+easy:name something round:basketball:null
+easy:what are the things you see in the classroom?:whiteboard:null
+easy:what do you shake before using?:spraypaint:null
+easy:think of something you can use to draw:coloredpencils:null
+easy:what would you put in the freezer?:icecream:null
+easy:name an activity where you wear gloves:baseball:null
+easy:name an outdoor activity:basketball:null
+easy:what's something that sharp?:razorblade:null
+easy:name something you can climb:mountain:null
+easy:name something that you'd do when you get home from school:playvideogames:null
+easy:name a common house color:yellow:null
+easy:name things you'd find in a kid's backpack:calculator:null
+easy:other than talking, name something shouldn't do while eating:null:null
+easy:name a color of the rainbow:orange:null
+easy:name something you have to charge regularly:smartphone:null
+easy:name one of santa's reindeer:rudolph:null
+easy:what melts when it gets hot?:icecream:null
+easy:name one thing you would find in a pencil case:pencilsharpener:null
+easy:name something that goes up:hotairballoon:null
+easy:where do kids nowadays spend most of their time?:playingvideogames:null
+easy:when do kids close their eyes?:sleeping:null
+easy:what does a dog do?:playfetch:null
+easy:when a kid needs help, who might they ask?:grandparents:null
+easy:can you name something in your mouth?:tongue:null
+easy:in which place are you told to keep quiet?:classroom:null
+easy:specify a sound you may heard in the farmyard:tractor:null
+easy:what are the types of seasons?:summer:null
+easy:what snacks do you usually eat at the movies?:popcorn:null
+easy:name a main character from frozen movie:dukeofweselton:null
+easy:example of something that has pair:shoes:null
+easy:give of name of a disney princess:cinderella:null
+easy:most popular car color:silver:null
+easy:example of a thing that is cold:popsicles:null
+easy:what is the best place for someone to study?:classroom:null
+easy:what are things you'd usually store in your wallet?:creditcard:null
+easy:a game you see people playing in the park:americanfootball:null
+easy:name a day in the week:wednesday:null
+easy:name something people do while watching fireworks:takepictures:null
+easy:name an animal that moves very slowly:tortoise:null
+easy:name a part of the body:shoulder:null
+easy:what's something keep in the car?:driverslisence:null
+easy:name an iceream flavor:mintchocolatechip:null
+easy:what would you find at the north pole?:santaclaus:null
+easy:name something that has roots:plants:null
+easy:name a school subject:physicaleducation:null
+easy:give a planet in our solar system:neptune:null
+easy:name something you feel:depression:null
+easy:month in the year:september:null
+easy:name things your mom would tell you to do before dinner:washyourhands:null
+easy:name things you bring on a camping trip:sleepingbag:null
+hard:name something people buy to show they are successful:stocks:null
+hard:name a musical genre:progressive:null
+hard:example of metal:stainlesssteel:null
+hard:name a type of fuel:gasoline:null
+hard:name something you find in a desert:tumbleweeds:null
+hard:name a pokemon:crabominable:null
+hard:name a type of wood:mahogany:null
+hard:give an emergency service:ambulance:null
+hard:a greek god's name:hephaestus:null
+hard:what are things you see in a museum?:statues:null
+hard:what are the types of communication?:telecommunication:null
+hard:what are the types of seeds?:sunflower:null
+hard:what is something at a wedding?:flowers:null
+hard:what are the types of chemical? reaction:singlereplacment:null
+hard:name a casino game:blackjack:null
+hard:give a dinosaur name:micropachycephalosaurus:null
+hard:name something from the disney movies:cinderella:null
+hard:name something that lives underground:insects:null
+hard:name something that starts with the word chow:chowderheaded:null
+hard:name a pixar movie:findingnemo:null

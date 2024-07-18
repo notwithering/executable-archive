@@ -1,0 +1,52 @@
+function wait(sec)
+	local start = os.time()
+	while os.time()<start+sec do
+
+	end
+	return
+end
+function cls()
+	if not os.execute("cls") then
+		os.execute("clear")
+	end
+end
+function fake(name, bankname, amt)
+	cls()
+
+	print("RECIEVER NAME:")
+	print(name)
+	print("RECIEVER BANK NAME:")
+	print(bankname)
+	print("RECIEVER REFUND AMOUNT:")
+	print(amt.."0")
+end
+function form()
+	cls()
+	print("RECIEVER NAME:")
+	local name = io.read()
+	print("RECIEVER BANK NAME:")
+	local bankname = io.read()
+	print("RECIEVER REFUND AMOUNT:")
+	local amt = io.read()
+	if tonumber(amt)~=nil then
+		fake(name, bankname, amt)
+		wait(3)
+	
+		local start = os.time()
+		while os.time()<start+10 do
+			os.execute("tree")
+		end
+		cls()
+		for i = 1, 50 do
+			print()
+		end
+	
+		print("$"..amt.."0".." HAS BEEN CREDITED TO: "..name)
+	else
+		wait(3)
+		print("INVALID REFUND AMOUNT")
+		wait(3)
+		form()
+	end
+end
+form()
